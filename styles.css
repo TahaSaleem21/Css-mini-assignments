@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  font-style: italic;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: rgb(142, 157, 208);
+  background-color: rgb(5, 5, 237);
+}
+#p1 { font-family: cursive;
+  color: rgb(218, 117, 218);
+}
+#p2 { font-family: sans-serif;
+  color: red;
+  background-color: yellow;
+}
+#p3 { font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(0, 255, 64);
+}
