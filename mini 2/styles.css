@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(200, 200, 200);
+}
+h1{
+   
+    background-color: rgb(231, 206, 185);
+    color: maroon;
+    font-family: Brush Script MT ;
+}
+#p1{
+     
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p5{
+   color:gray; 
+   font-family: Arial, Helvetica, sans-serif;
+}
+#p6{
+background-color: white;
+color: rgb(221, 172, 49);
+}
+#p7{
+    color: gray;
+}
+
