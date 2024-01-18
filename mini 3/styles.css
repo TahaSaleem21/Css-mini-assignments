@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Lemon&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Salsa&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mukta:wght@500&family=Salsa&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@600&display=swap');
+body {
+  background-image: url(https://i.stack.imgur.com/jGlzr.png);
+  background-size: 1250px;
+}
+h2 {
+    font-family: 'Russo One', sans-serif;
+  color: rgb(89, 9, 9);
+  text-decoration-line: underline;
+}
+#p1 {
+  font-family: "Lemon", serif;
+  font-style: italic;
+  font-weight: 500;
+  color: rgb(81, 48, 28);
+}
+#p2 {
+  font-family: "Lemon", serif;
+  font-weight: 500;
+  color: rgb(81, 48, 28);
+}
+#p3 {
+  font-family: "Salsa", cursive;
+  font-weight: 800;
+  color: rgb(81, 48, 28);
+}
+#p4 {
+  font-family: "Mukta", sans-serif;
+  font-weight: bold;
+  color: rgb(81, 48, 28);
+}
+#p5{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    color: rgb(81, 48, 28);
+
+}
